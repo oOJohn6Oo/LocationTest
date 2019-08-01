@@ -1,4 +1,5 @@
 `拿完就溜、日后研究党`自取
+![效果](./img/show.gif)
 ``` Kotlin
 // 效果为长按震动后响应拖拽
 // 这里image为ImageView的实例
